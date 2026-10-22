@@ -1,7 +1,7 @@
 # Anatomy中文版-深度剖析-交互式结构图解
 Anatomy中文版-深度剖析-交互式结构图解.本技能为开源项目 Anatomy（MIT 许可）的中文版封装，功能与原版一致。需要 Node.js 20.10 或更高版本；浏览器截图校验（可选）需要 Chrome 或 Chromium。交互式结构图解，把复杂原理，变成看得懂、能互动的动画或者视频。Anatomy，万物皆可解构，此为Anatomy官方中文版本。当用户需要把技术概念、算法、系统或组件的工作原理，做成精致、高度细节、可交互的等轴测说明图时使用本技能
 
-在各大Agent(比如workbuddy, Codex, Cloud Code等，给到Agent这个github地址，让Agent安装，即可自动安装Anatomy最新版本)，安装完这个skill即可体验最新汉化版的Anatomy。
+在各大Agent（比如workbuddy, Codex, Cloud Code等），给到Agent这个github地址，让Agent安装，即可自动安装Anatomy最新版本。安装完这个skill即可体验最新汉化版的Anatomy。提示词如下：
 ```bash
 请给我安装这个Skill：https://github.com/greatworks/Anatomy-ZH.git
 ```
