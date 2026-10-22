@@ -1,6 +1,11 @@
 # Anatomy中文版-深度剖析-交互式结构图解
 Anatomy中文版-深度剖析-交互式结构图解.本技能为开源项目 Anatomy（MIT 许可）的中文版封装，功能与原版一致。需要 Node.js 20.10 或更高版本；浏览器截图校验（可选）需要 Chrome 或 Chromium。交互式结构图解，把复杂原理，变成看得懂、能互动的动画或者视频。Anatomy，万物皆可解构，此为Anatomy官方中文版本。当用户需要把技术概念、算法、系统或组件的工作原理，做成精致、高度细节、可交互的等轴测说明图时使用本技能
 
+在各大Agent(比如workbuddy, Codex, Cloud Code等，给到Agent这个github地址，让Agent安装，即可自动安装Anatomy最新版本)，安装完这个skill即可体验最新汉化版的Anatomy。
+```bash
+请给我安装这个Skill：https://github.com/greatworks/Anatomy-ZH.git
+```
+
 # Anatomy
 
 ![Anatomy](_icon.png)
@@ -8,6 +13,23 @@ Anatomy中文版-深度剖析-交互式结构图解.本技能为开源项目 Ana
 > 把一个技术概念，画成一台真实、精密、会动的机器。
 >
 > 开源项目 [Anatomy](https://github.com/wheresryan22/anatomy)（MIT 许可，© 2026 Ryan）的中文版封装，全部功能与原版一致。
+
+<p align="center">
+  <a href="https://code.claude.com/docs/en/skills"><img src="https://img.shields.io/badge/Claude_Code-skill-1b1b19?style=flat-square&logo=claude&logoColor=white" alt="Claude Code skill"></a>
+  <a href="https://agentskills.io"><img src="https://img.shields.io/badge/Agent_Skills-compatible-1b1b19?style=flat-square" alt="Agent Skills compatible"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1b1b19?style=flat-square" alt="MIT license"></a>
+  <a href="#requirements"><img src="https://img.shields.io/badge/node-%E2%89%A5%2020.10-1b1b19?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node 20.10 or later"></a>
+  <a href="#requirements"><img src="https://img.shields.io/badge/dependencies-0-1b1b19?style=flat-square" alt="No dependencies"></a>
+  <a href="https://github.com/wheresryan22/anatomy/actions/workflows/ci.yml"><img src="https://github.com/wheresryan22/anatomy/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+</p>
+
+<p align="center">
+  <a href="https://skills.wheresryan.sh/anatomy"><img src="https://img.shields.io/badge/Website-skills.wheresryan.sh%2Fanatomy-1b1b19?style=for-the-badge" alt="Website: skills.wheresryan.sh/anatomy"></a>
+  &nbsp;
+  <a href="https://github.com/wheresryan22/anatomy/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download-ZIP-1b1b19?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"></a>
+  &nbsp;
+  <a href="#install"><img src="https://img.shields.io/badge/Install-npx_skills_add-d7d7d0?style=for-the-badge&labelColor=1b1b19&logo=npm&logoColor=white" alt="Install with npx"></a>
+</p>
 
 ## 这是什么
 
